@@ -1,3 +1,4 @@
 # memory-game
-Memory game with pictures fromy my comic-book-app
+Memory game for one player to find two same pictures
+With heroes from my comic-book-app. 
 In progress
